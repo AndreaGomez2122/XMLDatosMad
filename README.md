@@ -1,7 +1,5 @@
 # XMLDatosMad
 
-
-# MeteoMadXML
 ### Proyecto realizado por Andrea Gómez de Pablo y Mario González Gómez
 <img src="https://www.nacion.com/resizer/drZBcSeo8cIAvIrbUX72xZzsBYg=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/OXGPAXOCTZGSTP7O2DVDQ44F4M.jpg" alt="contaminacion" width="500px" height="400px" aling="center"/>
 
