@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<informe uuid="a49bfac5-1a8c-41c1-9d66-8fcdac2cf1e7">
+    <nombreCiudad>leganes</nombreCiudad>
+    <fecha>10/11/2021</fecha>
+    <datos_meteorologicos>
+        <informacionMeteorologica nombreMedicion="Velocidad del viento">
+            <mediaMensual>7.265946502057613</mediaMensual>
+            <momentoYMaxima>
+                <medicion>33.0</medicion>
+            </momentoYMaxima>
+            <momentoYMinima>
+                <medicion>1.0</medicion>
+            </momentoYMinima>
+        </informacionMeteorologica>
+        <informacionMeteorologica nombreMedicion="Direccion del viento">
+            <mediaMensual>239.06227305737107</mediaMensual>
+            <momentoYMaxima>
+                <medicion>359.0</medicion>
+            </momentoYMaxima>
+            <momentoYMinima>
+                <medicion>0.0</medicion>
+            </momentoYMinima>
+        </informacionMeteorologica>
+        <informacionMeteorologica nombreMedicion="Temperatura">
+            <mediaMensual>196.98048293391432</mediaMensual>
+            <momentoYMaxima>
+                <medicion>333.0</medicion>
+            </momentoYMaxima>
+            <momentoYMinima>
+                <medicion>15.0</medicion>
+            </momentoYMinima>
+        </informacionMeteorologica>
+        <informacionMeteorologica nombreMedicion="Humedad relativa">
+            <mediaMensual>51.89972161704188</mediaMensual>
+            <momentoYMaxima>
+                <medicion>93.0</medicion>
+            </momentoYMaxima>
+            <momentoYMinima>
+                <medicion>17.0</medicion>
+            </momentoYMinima>
+        </informacionMeteorologica>
+        <informacionMeteorologica nombreMedicion="Presion atmosferica">
+            <mediaMensual>948.7684112365486</mediaMensual>
+            <momentoYMaxima>
+                <medicion>955.0</medicion>
+            </momentoYMaxima>
+            <momentoYMinima>
+                <medicion>945.0</medicion>
+            </momentoYMinima>
+        </informacionMeteorologica>
+        <informacionMeteorologica nombreMedicion="Radiacion solar">
+            <mediaMensual>183.666878479787</mediaMensual>
+            <momentoYMaxima>
+                <medicion>859.0</medicion>
+            </momentoYMaxima>
+            <momentoYMinima>
+                <medicion>1.0</medicion>
+            </momentoYMinima>
+        </informacionMeteorologica>
+        <informacionMeteorologica nombreMedicion="Precipitacion">
+            <mediaMensual>0.8198983297022513</mediaMensual>
+            <momentoYMaxima>
+                <medicion>136.0</medicion>
+            </momentoYMaxima>
+            <momentoYMinima>
+                <medicion>0.0</medicion>
+            </momentoYMinima>
+        </informacionMeteorologica>
+    </datos_meteorologicos>
+    <datos_contaminacion>
+        <informacionContaminacion nombreMedicion="No hay registros"/>
+        <informacionContaminacion nombreMedicion="No hay registros"/>
+        <informacionContaminacion nombreMedicion="Monóxido de nitrógeno">
+            <mediaMensual>7.865785539805148</mediaMensual>
+            <momentoYMaxima>
+                <medicion>159.0</medicion>
+            </momentoYMaxima>
+            <momentoYMinima>
+                <medicion>1.0</medicion>
+            </momentoYMinima>
+        </informacionContaminacion>
+        <informacionContaminacion nombreMedicion="Dióxido de nitrógeno">
+            <mediaMensual>32.36375897160211</mediaMensual>
+            <momentoYMaxima>
+                <medicion>120.0</medicion>
+            </momentoYMaxima>
+            <momentoYMinima>
+                <medicion>4.0</medicion>
+            </momentoYMinima>
+        </informacionContaminacion>
+        <informacionContaminacion nombreMedicion="Partículas en suspension &lt; PM2,5">
+            <mediaMensual>9.417838611558418</mediaMensual>
+            <momentoYMaxima>
+                <medicion>29.0</medicion>
+            </momentoYMaxima>
+            <momentoYMinima>
+                <medicion>1.0</medicion>
+            </momentoYMinima>
+        </informacionContaminacion>
+        <informacionContaminacion nombreMedicion="Partículas en suspension &lt; PM10">
+            <mediaMensual>18.925389157273216</mediaMensual>
+            <momentoYMaxima>
+                <medicion>82.0</medicion>
+            </momentoYMaxima>
+            <momentoYMinima>
+                <medicion>1.0</medicion>
+            </momentoYMinima>
+        </informacionContaminacion>
+        <informacionContaminacion nombreMedicion="Óxidos de nitrógeno">
+            <mediaMensual>44.39857138141452</mediaMensual>
+            <momentoYMaxima>
+                <medicion>327.0</medicion>
+            </momentoYMaxima>
+            <momentoYMinima>
+                <medicion>6.0</medicion>
+            </momentoYMinima>
+        </informacionContaminacion>
+        <informacionContaminacion nombreMedicion="Ozono">
+            <mediaMensual>52.62755590451669</mediaMensual>
+            <momentoYMaxima>
+                <medicion>134.0</medicion>
+            </momentoYMaxima>
+            <momentoYMinima>
+                <medicion>1.0</medicion>
+            </momentoYMinima>
+        </informacionContaminacion>
+        <informacionContaminacion nombreMedicion="No hay registros"/>
+        <informacionContaminacion nombreMedicion="No hay registros"/>
+        <informacionContaminacion nombreMedicion="No hay registros"/>
+        <informacionContaminacion nombreMedicion="No hay registros"/>
+        <informacionContaminacion nombreMedicion="No hay registros"/>
+        <informacionContaminacion nombreMedicion="No hay registros"/>
+    </datos_contaminacion>
+</informe>
